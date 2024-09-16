@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "829198589036",
+    "project_id": "flower-fire-da6e7",
+    "storage_bucket": "flower-fire-da6e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829198589036:android:3edb95ceb8f8a0df198c49",
+        "android_client_info": {
+          "package_name": "com.app_e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829198589036-d69g8p5ldchjkl5ns1m9c6h8n801753l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app_e_commerce",
+            "certificate_hash": "1cd77d248348bf69f9d979ff319b5ed267ba9a61"
+          }
+        },
+        {
+          "client_id": "829198589036-0ofnob8rmd23gjt66nioghqp4rv9k992.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4wtnnenv5dQfxw82wnbGUYQ6KmZry4v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829198589036-0ofnob8rmd23gjt66nioghqp4rv9k992.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829198589036-ag52jn0c1g7uecs5so82f66icaur23mh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appECommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
